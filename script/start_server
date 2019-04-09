@@ -1,4 +1,2 @@
 #!/bin/bash
-git clone https://github.com/Darshannraval/scripts
-cd scripts/
 pm2 start app.js 
