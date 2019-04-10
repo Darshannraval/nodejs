@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /app.js
+  - source: /
     destination: /home/ubuntu/app.js
 hooks:
   BeforeInstall:
